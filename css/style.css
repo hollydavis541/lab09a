@@ -1,0 +1,77 @@
+/* placeholder */
+
+* {
+  text-align: center;
+}
+
+body {
+  /* width: 960px; */
+  margin: 0 auto;
+}
+
+header {
+  background-color: rgb(51, 167, 147);
+}
+
+main {
+  padding: 50px, 100px, 0px, 100px;
+}
+footer {
+  background-color: rgb(51, 167, 147);
+}
+
+li {
+  display: inline;
+  padding: 10px;
+  vertical-align: middle;
+}
+
+section, div, img, h1, article, textarea, button, footer, header, ul, li, main {
+  outline: 1px dotted black;
+}
+
+/*
+
+
+
+
+
+
+#bixbox {
+  overflow: auto;
+  height: 100%;
+  outline: 1px dotted black;
+}
+
+#threeboxes {
+  text-align: center;
+  height: 100%;
+  outline: 1px dotted black;
+}
+
+#col01 {
+  padding: 30px, 15px, 30px, 0px;
+  background-color: #efefef;
+  width: 300px;
+  float: left;
+  margin: 10px;
+  outline: 1px dotted black;
+}
+
+#col02 {
+  padding: 30px, 15px, 30px, 15px;
+  background-color: #efefef;
+  width: 300px;
+  float: left;
+  margin: 10px;
+  outline: 1px dotted black;
+}
+
+#col03 {
+  /* padding: 30px, 0px, 30px, 15px; */
+  /* background-color: #efefef;
+  width: 300px;
+  float: left;
+  margin: 10px;
+  outline: 1px dotted black;
+} */
